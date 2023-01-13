@@ -20,7 +20,7 @@
 
 
 ## GitHub Status
-![hanwool's github stats](https://github-readme-stats.vercel.app/api?username=hanwool77&show_icons=true)
+![HanWool's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanwool77&show_icons=true)
 
 ##	:1st_place_medal: Solved.ac
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsgksdnf11)](https://solved.ac/wjsgksdnf11)
